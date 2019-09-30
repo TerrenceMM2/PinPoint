@@ -14,9 +14,12 @@ Live Link: https://heyimhibi.github.io/PinPoint/
      * Current weather
   * Once the option is selected, related businesses will populate, giving the user options based on the location of the college or university.
 
-## Screenshots
-![PinPoint Home Page Screenshot](../media/pinpoint-screenshot1.png?raw=true)
-![PinPoint Search Results Page Screenshot](../media/pinpoint-screenshot2.png?raw=true)
+## Screenshots  
+**PinPoint Home Page**  
+![PinPoint Home Page Screenshot](../media/pinpoint-screenshot1.png?raw=true)  
+  
+**PinPoint Search Results Page**  
+![PinPoint Search Results Page Screenshot](../media/pinpoint-screenshot2.png?raw=true)  
 
 ### Tech
 PinPoint uses:
