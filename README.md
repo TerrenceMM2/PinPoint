@@ -3,7 +3,7 @@ Project 1 for Vanderbilt Coding Bootcamp class, this app aims to help users find
   
 Live Link: https://heyimhibi.github.io/PinPoint/
 
-# Features
+## Features
 
   * Select state from populated drop down
   * The second drop down automatically populates colleges and universities based on the state selection.
@@ -14,8 +14,11 @@ Live Link: https://heyimhibi.github.io/PinPoint/
      * Current weather
   * Once the option is selected, related businesses will populate, giving the user options based on the location of the college or university.
 
+## Screenshots
+![PinPoint Home Page Screenshot](../media/pinpoint-screenshot1.png?raw=true)
+![PinPoint Search Results Page Screenshot](../media/pinpoint-screenshot2.png?raw=true)
 
-# Tech
+### Tech
 PinPoint uses:
 
 * [Bootstrap]
@@ -23,22 +26,22 @@ PinPoint uses:
 * [Animate.css]
 * [Loaders.css]
 
-# API Resources
+### API Resources
   
   * [Data.gov - College Scorecard]
   * [OpenWeatherMap]
   * [Foursquare]
   * [Google Maps]
 
-# Contributors
+### Contributors
 
  * [Patricia Correia]
  * [Terrence Mahnken]
  * [Gavin Akins]
  * [Wendy Miller]
  
- # Further Development
- Features we want to add in the future.
+### Further Development
+Coming Features:
  
   * Academic Standings
   * Compare Schools
@@ -47,8 +50,6 @@ PinPoint uses:
   * User Favorites/User Accounts
   * Safety
   * College Snapshot Display
-
-
 
   [Bootstrap]: <https://getbootstrap.com/>
   [Javascript/jQuery]: <https://jquery.com/>
@@ -62,5 +63,3 @@ PinPoint uses:
   [Terrence Mahnken]: <https://github.com/TerrenceMM2>
   [Gavin Akins]: <https://github.com/GBAkins>
   [Wendy Miller]: <https://github.com/wendmiller>
-  
-  
